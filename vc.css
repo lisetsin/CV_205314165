@@ -1,0 +1,6 @@
+.circular-image {
+    border: 1px solid #000000;
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+}
